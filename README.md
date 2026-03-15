@@ -8,3 +8,4 @@ Analyzed sales data for the first quarter of 2025 for a small retail store speci
 3. Which store sold the highest number of units?
 4. What were the top 3 best-selling products by units sold?
 5. What was the trend of total revenue over the three months? 
+## Dashboard link:https://app.powerbi.com/links/b0vLIBQglU?ctid=bd697c1b-c481-479c-841e-c618542675c3&pbi_source=linkShare
